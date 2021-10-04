@@ -1,6 +1,6 @@
 name: 'Continuous Benchmark - Go fix'
 author: 'isdevx <https://isdevx.github.io>'
-description: 'Continuous Benchmark using GitHub pages as dash board for keeping performance originally built by https://github.com/benchmark-action, this version oncludes a fix for Go benchamrk parsing'
+description: 'Originally built by https://github.com/benchmark-action, this version oncludes a fix for Go benchamrk parsing'
 branding:
   icon: 'fast-forward'
   color: 'blue'
